@@ -1,6 +1,6 @@
 # Deep-Learning---AT-T_SPAM-DETECTOR
 
-<img width="1000" height="411" alt="image" src="https://github.com/user-attachments/assets/61470002-b90d-4325-86a1-3151baa78e86" />
+<img width="400" height="411" alt="image" src="https://github.com/user-attachments/assets/61470002-b90d-4325-86a1-3151baa78e86" />
 
 
 Orange SPAM detector Company's Description 📇 AT&T Inc. is an American multinational telecommunications holding company headquartered at Whitacre Tower in Downtown Dallas, Texas. It is the world's largest telecommunications company by revenue and the third largest provider of mobile telephone services in the U.S. As of 2022, AT&T was ranked 13th on the Fortune 500 rankings of the largest United States corporations, with revenues of $168.8 billion! 😮
