@@ -1,16 +1,23 @@
 # Deep-Learning---AT-T_SPAM-DETECTOR
 
-<img width="400" height="411" alt="image" src="https://github.com/user-attachments/assets/61470002-b90d-4325-86a1-3151baa78e86" />
 
+<img width="350" height="144" alt="image" src="https://github.com/user-attachments/assets/1b151e17-c888-4c3f-a458-72fa4ce5963b" />
 
-Orange SPAM detector Company's Description 📇 AT&T Inc. is an American multinational telecommunications holding company headquartered at Whitacre Tower in Downtown Dallas, Texas. It is the world's largest telecommunications company by revenue and the third largest provider of mobile telephone services in the U.S. As of 2022, AT&T was ranked 13th on the Fortune 500 rankings of the largest United States corporations, with revenues of $168.8 billion! 😮
+## Orange SPAM detector
 
-Project 🚧 One of the main pain point that AT&T users are facing is constant exposure to SPAM messages.
+## Company's Description 📇
+AT&T Inc. is an American multinational telecommunications holding company headquartered at Whitacre Tower in Downtown Dallas, Texas. It is the world's largest telecommunications company by revenue and the third largest provider of mobile telephone services in the U.S. As of 2022, AT&T was ranked 13th on the Fortune 500 rankings of the largest United States corporations, with revenues of $168.8 billion! 😮
+
+## Project 🚧
+One of the main pain point that AT&T users are facing is constant exposure to SPAM messages.
 
 AT&T has been able to manually flag spam messages for a time, but they are looking for an automated way of detecting spams to protect their users.
 
-Goals 🎯 Your goal is to build a spam detector, that can automatically flag spams as they come based solely on the sms' content.
+##  Goals 🎯
+Your goal is to build a spam detector, that can automatically flag spams as they come based solely on the sms' content.
 
-Deliverable 📬 To complete this project, your team should:
+##  Deliverable 📬
+To complete this project, your team should:
 
-Write a notebook that runs preprocessing and trains one or more deep learning models in order to predict the spam or ham nature of the sms State the achieved performance clearly
+Write a notebook that runs preprocessing and trains one or more deep learning models in order to predict the spam or ham nature of the sms
+State the achieved performance clearly
